@@ -28,6 +28,11 @@
                 <h2>News</h2>
                 <p>Le site progresse bien</p>
             </section>
+            
+            <section>
+                <h2>News</h2>
+                <p>Le site progresse encore</p>
+            </section>
 
         </div>
     </body>
