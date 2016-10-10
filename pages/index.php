@@ -5,7 +5,7 @@
         <title></title>
     </head>
     <body>
-        <h2 id="titre_page">Entrées et sorties des marchandises</h2>
+        <h2 id="titre_page">Entrées et sorti des marchandises</h2>
         <div id="image_acceuil">
             <section>
                 <h2>Achats des produits de décoration</h2>
